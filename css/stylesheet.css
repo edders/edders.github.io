@@ -1,0 +1,124 @@
+header {
+  font-family: 'Signika', sans-serif;
+  color: rgb(254,255,249);
+  text-align: center;
+  font-size: 20px;
+
+}
+header h1{
+  background-color: rgb(185,179,175);
+  padding: 8px 0;
+  margin: 30px;
+}
+
+header img{
+  border: 1px solid black;
+
+}
+
+body {
+  font size: 16px;
+  font-family: "Times New Roman";
+  color:black;
+  background-color:rgb(228,228,228);
+}
+
+nav {
+  text-align: center;
+  font-family: "Arial";
+  background-color: #fff;
+  margin: 30px;
+
+}
+
+nav ul{
+  padding:1em 0;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+nav ul li{
+  display: inline-block;
+  margin-right: 16px;
+}
+
+nav.main ul li a:hover {
+  margin: -8px;
+  padding: 8px;
+  color: #fff;
+  background-color: rgb(218,216,213);
+}
+
+a,
+a {
+  color: black;
+}
+
+h1:hover{
+  color:blue;
+}
+
+h2 {
+  color: blue;
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+  font-family: "Arial";
+  background-color: rgb(185,179,175);
+  height:36px;
+  color: rgb(254,255,249);
+  font-family: 'Muli', sans-serif;
+  font-size: 24px;
+}
+
+main{
+  background-color: #fff;
+  margin: 30px;
+  overflow: auto;
+}
+
+p {
+  padding: 20px;
+}
+
+
+#leftpic {
+  float: left;
+  margin: 20px;
+  border-style: solid;
+  border-color: gray;
+  border-width: 1px;
+}
+
+#about h1 {
+  font-family: 'Signika', sans-serif;
+  font-size: 20px;
+  color: black;
+}
+
+#vid iframe {
+  padding-top: 10px;
+  display: block;
+  text-align: center;
+  margin: auto;
+}
+
+#vid p {
+  text-align: center;
+}
+
+#contact {
+  text-align: center;
+  display: block;
+  position: relative;
+  margin-left: 0px auto;
+  margin-right: 0px auto;
+
+}
+
+#skills {
+  font size: .75em;
+
+}
